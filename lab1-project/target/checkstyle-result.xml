@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\admin\Desktop\laby\sem3_1\lab1-project\src\main\java\pwr\edu\pl\App.java">
+<error line="7" column="1" severity="warning" message="&apos;class def lcurly&apos; has incorrect indentation level 0, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="1" severity="warning" message="&apos;{&apos; at column 1 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="10" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
+<error line="13" column="5" severity="warning" message="&apos;{&apos; at column 5 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="14" column="9" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="9" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" column="9" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="1" severity="warning" message="&apos;class def rcurly&apos; has incorrect indentation level 0, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\Users\admin\Desktop\laby\sem3_1\lab1-project\src\main\java\pwr\edu\pl\DiscountCalculator.java">
+<error line="7" column="1" severity="warning" message="&apos;class def lcurly&apos; has incorrect indentation level 0, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="1" severity="warning" message="&apos;{&apos; at column 1 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="10" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
+<error line="14" column="5" severity="warning" message="&apos;{&apos; at column 5 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="15" column="9" severity="warning" message="&apos;if&apos; has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" column="9" severity="warning" message="&apos;{&apos; at column 9 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="17" column="13" severity="warning" message="&apos;if&apos; child has incorrect indentation level 12, expected level should be one of the following: 8, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" column="9" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="1" severity="warning" message="&apos;class def rcurly&apos; has incorrect indentation level 0, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\Users\admin\Desktop\laby\sem3_1\lab1-project\src\main\java\pwr\edu\pl\OrderProcessor.java">
+<error line="7" column="1" severity="warning" message="&apos;class def lcurly&apos; has incorrect indentation level 0, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="1" severity="warning" message="&apos;{&apos; at column 1 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="12" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
+<error line="16" column="5" severity="warning" message="&apos;{&apos; at column 5 should be on the previous line." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="17" column="9" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="9" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 8, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="1" severity="warning" message="&apos;class def rcurly&apos; has incorrect indentation level 0, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>

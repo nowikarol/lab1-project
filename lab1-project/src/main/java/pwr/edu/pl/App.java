@@ -1,13 +1,18 @@
 package pwr.edu.pl;
 
 /**
- * Hello world! Try Conflict
- *
+ * Main application class.
  */
-public class App 
+public class App
 {
-    public static void main( String[] args )
+    /**
+     * Main entry point.
+     * @param args command line arguments
+     */
+    public static void main(String[] args)
     {
-        System.out.println( "Hello World!" );
+        OrderProcessor processor = new OrderProcessor();
+        double finalPrice = processor.processOrder(150.0);
+        System.out.println("Final price: " + finalPrice);
     }
 }
