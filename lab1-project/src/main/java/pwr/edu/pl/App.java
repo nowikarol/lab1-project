@@ -1,7 +1,7 @@
 package pwr.edu.pl;
 
 /**
- * Hello world!
+ * Hello world! (conflict)
  *
  */
 public class App 
